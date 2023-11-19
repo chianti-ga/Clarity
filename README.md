@@ -1,5 +1,5 @@
 # Clarity
-Custom color scheme for people who have difficulty seeing color contrasts due to visual fatigue. (JetBrain IDEs only)
+Custom color scheme with high color contrasts to help with visual fatigue. (JetBrains IDEs only)
 
 ![image](https://github.com/skitou/Clarity/assets/38993289/1df97c02-e1ad-4d35-b986-014ad14fb269)
 
